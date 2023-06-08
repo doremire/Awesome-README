@@ -5,7 +5,7 @@
 <h1 align="center">プロジェクト名</h1>
 
 <p align="center">
-  <a href="https://github.com/doremire/dotfires"><img src="https://img.shields.io/github/stars/ユーザー名/リポジトリ名?style=flat-square" alt="GitHub Stars"></a>
+  <a href="https://github.com/ユーザー名/リポジトリ名"><img src="https://img.shields.io/github/stars/ユーザー名/リポジトリ名?style=flat-square" alt="GitHub Stars"></a>
   <a href="https://github.com/ユーザー名/リポジトリ名"><img src="https://img.shields.io/github/forks/ユーザー名/リポジトリ名?style=flat-square" alt="GitHub Forks"></a>
   <a href="https://github.com/ユーザー名/リポジトリ名/issues"><img src="https://img.shields.io/github/issues/ユーザー名/リポジトリ名?style=flat-square" alt="GitHub Issues"></a>
   <a href="https://github.com/ユーザー名/リポジトリ名/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ユーザー名/リポジトリ名?style=flat-square" alt="License"></a>
