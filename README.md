@@ -24,6 +24,26 @@
   <a href="https://github.com/your-username/your-repo/issues">新機能の提案</a>
 </p>
 
+<br>
+<p align="center">
+  <b>どちらか好きな表示方法を選んでください。</b>　
+</p>
+<br>
+<p align="center">
+    <em>言語を選択してください:</em>
+  <a href="README.md">🇯🇵 日本語</a> |
+  <a href="README_EN.md">🇺🇸 English</a>
+</p>
+
+<p align="center">
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/language-日本語-orange.svg" alt="日本語">
+  </a>
+  <a href="README_EN.md">
+    <img src="https://img.shields.io/badge/language-English-blue.svg" alt="English">
+  </a>
+</p>
+
 ## 概要
 
 プロジェクトの概要や背景情報など、重要な情報をここに記述します。
