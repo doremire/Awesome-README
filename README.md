@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://example.com/logo.png" alt="Logo">
+  <img src="sample-logo-470x235-1.png" alt="Logo">
 </p>
 
 <h1 align="center">プロジェクト名</h1>
