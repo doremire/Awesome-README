@@ -15,6 +15,13 @@
   <strong>プロジェクトの短い説明</strong>
   <br>
   プロジェクトの詳細な説明や機能についての情報をここに記述します。
+    <br>
+  <br>
+  <a href="https://github.com/your-username/your-repo/wiki">ドキュメント</a>
+  ·
+  <a href="https://github.com/your-username/your-repo/issues">バグを報告</a>
+  ·
+  <a href="https://github.com/your-username/your-repo/issues">新機能の提案</a>
 </p>
 
 ## 概要
