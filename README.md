@@ -59,3 +59,6 @@
 ## ライセンス
 
 プロジェクトのライセンス情報をここに記述します。
+
+## チェックしてください✨
+https://github.com/HidemaruOwO/Awesome-Repository
