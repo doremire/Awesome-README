@@ -61,4 +61,5 @@
 プロジェクトのライセンス情報をここに記述します。
 
 ## チェックしてください✨
-https://github.com/HidemaruOwO/Awesome-Repository
+<a href="https://github.com/HidemaruOwO/Awesome-Repository">HidemaruOwO/Awesome-Repository</a>
+
